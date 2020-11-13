@@ -37,9 +37,14 @@ input[type="range"]:focus {
 }
 
 input[type="range"]::-webkit-slider-thumb {
-  appearance: none;
+  -webkit-appearance: none;
   height: 16px;
   width: 16px;
+}
+input[type="range"]::-moz-range-thumb {
+  -webkit-appearance: none;
+  background: none;
+  border: none;
 }
 
 .track {
