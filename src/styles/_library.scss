@@ -6,6 +6,9 @@
   width: 20rem;
   box-shadow: 2px 2px 50px gray;
   overflow-y: scroll;
+  transform: translateX(-100%);
+  transition: all 0.5s ease;
+  opacity: 0;
   h2 {
     padding: 2rem;
   }
@@ -54,5 +57,10 @@
 }
 
 .library-song-selected {
-  background: violet;
+  background: rgb(165, 181, 228);
+}
+
+.library-active {
+  transform: translateX(0%);
+  opacity: 1;
 }
