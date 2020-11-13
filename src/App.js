@@ -5,6 +5,7 @@ import "./styles/app.scss";
 import data from "./data";
 import Library from "./components/Library";
 import Nav from "./components/Nav";
+import LibrarySong from "./components/LibrarySong";
 
 function App() {
   // Ref reference to an html tag
@@ -43,7 +44,7 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div className={`App ${libraryStatus ? "app-library-active" : ""}`}>
       <Nav libraryStatus={libraryStatus} setLibraryStatus={setLibraryStatus} />
       <Song currentSong={currentSong} />
       <Player
