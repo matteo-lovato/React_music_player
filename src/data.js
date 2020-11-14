@@ -218,7 +218,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8044",
     },
@@ -228,7 +228,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8204",
     },
@@ -238,7 +238,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8666",
     },
@@ -248,7 +248,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8660",
     },
@@ -258,7 +258,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8043",
     },
@@ -268,7 +268,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8201",
     },
@@ -278,7 +278,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8657",
     },
@@ -288,7 +288,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8198",
     },
@@ -298,7 +298,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=7843",
     },
@@ -308,7 +308,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=7992",
     },
@@ -318,7 +318,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8195",
     },
@@ -328,7 +328,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8137",
     },
@@ -338,7 +338,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8192",
     },
@@ -348,7 +348,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8648",
     },
@@ -358,7 +358,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8663",
     },
@@ -368,7 +368,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8647",
     },
@@ -378,7 +378,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8190",
     },
@@ -388,7 +388,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8669",
     },
@@ -398,7 +398,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8654",
     },
@@ -408,7 +408,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8528",
     },
@@ -418,7 +418,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8651",
     },
@@ -428,7 +428,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8053",
     },
@@ -438,7 +438,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8544",
     },
@@ -448,7 +448,7 @@ function data() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
       id: uuidv4(),
-      color: ["#C7DAB6", "#5EB2BF"],
+      color: ["#E0A8A7", "#5EB2BF"],
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8672",
     },
