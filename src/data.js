@@ -202,6 +202,256 @@ function data() {
       active: false,
       audio: "https://mp3.chillhop.com/serve.php/?mp3=10265",
     },
+    {
+      name: "Faces",
+      artist: "Knowmadic",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/07/c50f86fb7696e5c5747e0fa2ada4fcbc2501fea7-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7F6D5", "#626A8D"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8554",
+    },
+    {
+      name: "Slopes",
+      artist: "Philanthrope, Yasper",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8044",
+    },
+    {
+      name: "Morning Glory",
+      artist: "Melodiesinfonie",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8204",
+    },
+    {
+      name: "Middle School",
+      artist: "Blue Wednesday, Magnus Klausen",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8666",
+    },
+    {
+      name: "Petricor",
+      artist: "Juan Rios",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8660",
+    },
+    {
+      name: "Citrine",
+      artist: "Toonorth",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8043",
+    },
+    {
+      name: "Mistleflow",
+      artist: "Ben Bada Boom",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8201",
+    },
+    {
+      name: "blankets",
+      artist: "fantompower",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8657",
+    },
+    {
+      name: "seltzy",
+      artist: "Ian Ewing",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8198",
+    },
+    {
+      name: "polarbeer",
+      artist: "mommy",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=7843",
+    },
+    {
+      name: "Viaduct",
+      artist: "Dontcry, Nokiaa",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=7992",
+    },
+    {
+      name: "Gratitude",
+      artist: "Ruck P",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8195",
+    },
+    {
+      name: "burn my mind",
+      artist: "Tesk",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8137",
+    },
+    {
+      name: "Embers in the Dark",
+      artist: "Osvaldo, Garot Michael Conklin",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8192",
+    },
+    {
+      name: "Captain Calvin",
+      artist: "Yasper, Louk",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8648",
+    },
+    {
+      name: "Mila Coolness",
+      artist: "Strehlow",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8663",
+    },
+    {
+      name: "Potion",
+      artist: "Monma",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8647",
+    },
+    {
+      name: "With all I am",
+      artist: "Sofasound",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8190",
+    },
+    {
+      name: "larkspur",
+      artist: "Harris Cole",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8669",
+    },
+    {
+      name: "Crossroads",
+      artist: "Hanz",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8654",
+    },
+    {
+      name: "Fall's Echoes",
+      artist: "Sleepy Fish",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8528",
+    },
+    {
+      name: "Love Affair in Kyoto",
+      artist: "sadtoi",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8651",
+    },
+    {
+      name: "I need to paint my walls",
+      artist: "A L E X",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8053",
+    },
+    {
+      name: "Candle",
+      artist: "Leavv",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8544",
+    },
+    {
+      name: "Rainy Days",
+      artist: "Aso",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/06/52bd092974ccce9aa610c33f03575fc2d7f9c7d2-1024x1024.jpg",
+      id: uuidv4(),
+      color: ["#C7DAB6", "#5EB2BF"],
+      active: false,
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8672",
+    },
   ];
 }
 
